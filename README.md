@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Aditya Singh</h1>
-<h3 align="center">A passionate Engineering student who is likely working with java & python else with html and javascript!</h3>
+<h3 align="center">A passionate Engineering student who is likely working on AppDev or with WebDev!</h3>
 
 - 🔭 I’m currently working on [RentABikeHourly](https://github.com/NAVadi21/RentABikeHourly)
 
