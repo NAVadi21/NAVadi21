@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVadi21](https://github.com/NAVadi21)
 
-- 💬 Ask me about **Placements?**
+- 💬 Ask me about **Repositories and commits?**
 
 - 📫 How to reach me **pranavaditya21@gmail.com**
 
