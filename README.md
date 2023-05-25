@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **My Public Repositories**
+- 🤝 I’m looking for help with **My Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAVadi21](https://github.com/NAVadi21)
 
