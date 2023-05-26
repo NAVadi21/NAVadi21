@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://pranavadi-webdev.netlify.app/](https://pranavadi-webdev.netlify.app/)
 
-- ⚡ Fun fact **the average person spends around six months of their lifetime waiting at red traffic lights? It's a fascinating realization of how these seemingly small moments add up and contribute to our overall life experiences.**
+- ⚡ Fun fact **the average person spends around six months of their lifetime waiting at red traffic lights? It's a fascinating realization of how these seemingly small moments add up and contribute to the overall life experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
